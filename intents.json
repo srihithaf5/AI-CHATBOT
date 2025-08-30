@@ -1,0 +1,138 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "What's up",
+        "Yo"
+      ],
+      "responses": [
+        "Hi there! What can I do for you?",
+        "Hello! How are you today?",
+        "Hey! How’s it going?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you",
+        "See you later",
+        "Catch you later",
+        "Take care"
+      ],
+      "responses": [
+        "Goodbye! Have a great day 😊",
+        "See you soon!",
+        "Take care and bye!"
+      ]
+    },
+    {
+      "tag": "feeling_good",
+      "patterns": [
+        "I'm fine",
+        "I am fine",
+        "I'm good",
+        "I am good",
+        "I'm doing well",
+        "I feel great",
+        "All good",
+        "fine",
+        "good",
+        "ok",
+        "okay",
+        "doing good"
+      ],
+      "responses": [
+        "Glad to hear that! 😃",
+        "Awesome! Keep it up 👍",
+        "That's wonderful to know!"
+      ]
+    },
+    {
+      "tag": "feeling_bad",
+      "patterns": [
+        "I'm sad",
+        "I'm not fine",
+        "I am not good",
+        "I'm upset",
+        "I'm feeling low",
+        "I feel bad",
+        "I'm sick"
+      ],
+      "responses": [
+        "I'm sorry to hear that. 💙",
+        "Things will get better soon, stay strong 💪",
+        "Sending you positive vibes 🌸"
+      ]
+    },
+    {
+      "tag": "fruits",
+      "patterns": [
+        "Tell me some fruits",
+        "List some fruits",
+        "Can you name fruits",
+        "What are some fruits",
+        "Give me fruits names",
+        "fruit names",
+        "I want fruits",
+        "Say some fruits"
+      ],
+      "responses": [
+        "Here are some fruits: Apple, Banana, Mango, Orange, Grapes.",
+        "Fruits include: Pineapple, Papaya, Kiwi, Strawberry, Watermelon.",
+        "Sure! Some fruits are: Guava, Litchi, Pomegranate, Pear, Cherry."
+      ]
+    },
+    {
+      "tag": "vegetables",
+      "patterns": [
+        "Tell me some vegetables",
+        "List some vegetables",
+        "Can you name vegetables",
+        "What are some vegetables",
+        "Give me vegetable names",
+        "vegetable names",
+        "I want vegetables",
+        "Say some vegetables"
+      ],
+      "responses": [
+        "Here are some vegetables: Potato, Tomato, Carrot, Cabbage, Spinach.",
+        "Vegetables include: Onion, Cauliflower, Peas, Brinjal, Beans.",
+        "Sure! Some vegetables are: Radish, Beetroot, Pumpkin, Ladyfinger, Capsicum."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Thx",
+        "Thanks a lot",
+        "Much appreciated",
+        "Thank you so much"
+      ],
+      "responses": [
+        "You're welcome! 😊",
+        "Anytime!",
+        "Happy to help 👍"
+      ]
+    },
+    {
+      "tag": "default",
+      "patterns": [],
+      "responses": [
+        "I'm not sure I understood — can you rephrase?",
+        "Sorry, I don't know the answer to that. Could you ask differently?",
+        "Hmm... I don't have that info yet 🤔"
+      ]
+    }
+  ]
+}
