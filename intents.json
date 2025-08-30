@@ -1,0 +1,85 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening",
+        "hi there",
+        "hello bot"
+      ],
+      "responses": [
+        "Hello!",
+        "Hi there!",
+        "Hey! How can I help you today?",
+        "Hi! Nice to see you."
+      ]
+    },
+    {
+      "tag": "how_are_you",
+      "patterns": [
+        "how are you",
+        "how are you doing",
+        "what's up",
+        "are you fine",
+        "how's it going"
+      ],
+      "responses": [
+        "I'm doing great, thank you!",
+        "I'm fine! How about you?",
+        "All good here.",
+        "I'm doing well. Thanks for asking!"
+      ]
+    },
+    {
+      "tag": "fruits",
+      "patterns": [
+        "tell some fruits",
+        "list fruits",
+        "name fruits",
+        "give me fruit names",
+        "what are some fruits",
+        "say some fruits"
+      ],
+      "responses": [
+        "Apple, Banana, Mango, Orange, Grapes.",
+        "Mango, Papaya, Pineapple, Guava.",
+        "Watermelon, Strawberry, Cherry, Kiwi."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you later",
+        "catch you later",
+        "see you soon"
+      ],
+      "responses": [
+        "Goodbye!",
+        "See you later!",
+        "Bye! Have a nice day!",
+        "Take care!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thanks",
+        "thank you",
+        "thanks a lot",
+        "thank you so much"
+      ],
+      "responses": [
+        "You're welcome!",
+        "No problem!",
+        "Glad I could help.",
+        "Anytime!"
+      ]
+    }
+  ]
+}
