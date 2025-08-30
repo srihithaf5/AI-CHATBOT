@@ -1,5 +1,19 @@
 # AI-CHATBOT
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: PATTEM SRIHITHA
+
+INTERN ID: CT04DY1528
+
+DOMAIN: PYTHON PROGRAMMING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
+DESCRIPTION ABOUT THIS TASK
+
 Project Overview
 
 This project is a simple AI-powered chatbot built using Python, Flask, and Natural Language Processing (NLP) techniques. The chatbot is designed to understand user inputs, process them, and provide appropriate responses based on predefined intents stored in a JSON file (intents.json). It demonstrates the basic workflow of a conversational AI system, where text classification and intent recognition are used to provide meaningful responses.
