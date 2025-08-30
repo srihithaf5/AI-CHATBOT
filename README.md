@@ -81,6 +81,12 @@ The simplicity of the project makes it a solid foundation for learning, while it
 
 OUTPUTS: 
 
+<img width="911" height="647" alt="Image" src="https://github.com/user-attachments/assets/644262a4-5693-44cb-8706-162f15dcf948" />
+
+<img width="1626" height="877" alt="Image" src="https://github.com/user-attachments/assets/3abeccc1-d823-498a-a6c0-2276f0a58d71" />
+
+<img width="1773" height="843" alt="Image" src="https://github.com/user-attachments/assets/6c9ed349-9aed-47b5-9a03-52fe3961e0fa" />
+
 
 
 
